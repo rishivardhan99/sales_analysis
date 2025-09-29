@@ -1,0 +1,6 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,Total,SalesPerson,Country
+1001,2024-01-01,T-shirt,Apparel,2,12.5,25.0,Asha,India
+1002,2024-01-02,Jeans,Apparel,1,25.0,25.0,Vikram,USA
+1003,2024-01-03,Sneakers,Footwear,3,45.0,135.0,Meera,UK
+1004,2024-01-04,Sandals,Footwear,2,20.0,40.0,Suresh,Germany
+1005,2024-01-05,Backpack,Accessories,1,35.0,35.0,Priya,Australia
